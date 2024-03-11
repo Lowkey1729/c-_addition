@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T22:50:40.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0JW-Qaos8ij-l_RICd4d" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T22:56:32.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="U88xiErXMIP_-Ge5ZRyE" version="24.0.2" type="github">
   <diagram name="Page-1" id="eYNl6oVc8lXeLFPRdGsU">
     <mxGraphModel dx="954" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
         <mxCell id="5nQwqd4CATbJl3UrIqld-43" value="Escrow&amp;nbsp;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="24" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5nQwqd4CATbJl3UrIqld-44" value="Instant Debit&amp;nbsp;&lt;div&gt;Service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5nQwqd4CATbJl3UrIqld-44" value="Exchange Rate Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="134" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5nQwqd4CATbJl3UrIqld-45" value="Payment Link&lt;div&gt;Service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
